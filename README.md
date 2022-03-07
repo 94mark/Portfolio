@@ -25,4 +25,10 @@
 - `2021.09 ~ 2021.12` 2021 ICT 솔직 Challenge 공모전 참여 및 수상
 	- 메타버스를 활용하여 탄소중립/코로나19 극복 등 사회문제를 해결하는 솔루션 기획 및 개발 프로젝트
 	- 기부 시스템과 연계한 VR 해양 쓰레기 수거 게임 제작 
-	- 한국전파산업진흥원장상 수상  
+	- 한국전파산업진흥원장상 수상
+# Study
+> [인생 유니티 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=16348116)
+> [인생 유니티 VR/AR 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=18896984)
+> [게임 프로그래밍 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=10615724)
+> Inflearn 
+> coloso  
