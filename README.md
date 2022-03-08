@@ -13,8 +13,14 @@
 	- 3DS MAX를 활용한 3D 모델링 교육 과정 이수
 - `2013.03 ~ 2020.08` INHA University 
 	- Bachelor of Business Administration
+## Skills
+- Unity
+	- Stacks :  C#, Editor, Cinemachine, Timeline
+- Git
+	- GitHub 	   	
 ## Interest 
 - Unity & C#
+- URP/HDRP, ML-Agent
 - Sharing Experiences
 - Workout
 ## Personal Experiences
