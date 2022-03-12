@@ -33,14 +33,3 @@
 	- 기부 시스템과 연계한 VR 해양 쓰레기 수거 게임 제작 
 	- 한국전파산업진흥원장상 수상
 # Study
-> [인생 유니티 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=16348116)
-
-> [인생 유니티 VR/AR 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=18896984)
-
-> [게임 프로그래밍 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=10615724)
-
-> Inflearn
- 
-> coloso  
-
-> FastCampus
