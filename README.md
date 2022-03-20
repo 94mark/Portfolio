@@ -15,7 +15,7 @@
 	- Bachelor of Business Administration
 ## Skills
 - Unity
-	- Stacks :  C#, Editor, Cinemachine, Timeline
+	- Stacks :  C#, Editor, Cinemachine, Timeline, Vuforia, AR Core
 - Git
 	- GitHub 	   	
 ## Interest 
